@@ -1,0 +1,93 @@
+SBR
+├── Config/
+│   └── DefaultEngine.ini
+├── Engine/
+│   ├── Binaries/
+│   │   └── ThirdParty/
+│   │       ├── DbgHelp/
+│   │       │   └── dbghelp.dll
+│   │       ├── MsQuic/
+│   │       │   └── v220/
+│   │       │       └── win64/
+│   │       │           └── msquic.dll
+│   │       ├── NVIDIA/
+│   │       │   └── NVaftermath/
+│   │       │       └── Win64/
+│   │       │           └── GFSDK_Aftermath_Lib.x64.dll
+│   │       ├── Ogg/
+│   │       │   └── Win64/
+│   │       │       └── VS2015/
+│   │       │           └── libogg_64.dll
+│   │       ├── Vorbis/
+│   │       │   └── Win64/
+│   │       │       └── VS2015/
+│   │       │           ├── libvorbis_64.dll
+│   │       │           └── libvorbisfile_64.dll
+│   │       └── Windows/
+│   │           ├── WinPixEventRuntime/
+│   │           │   └── x64/
+│   │           │       └── WinPixEventRuntime.dll
+│   │           └── XAudio2_9/
+│   │               └── x64/
+│   │                   └── xaudio2_9redist.dll
+│   ├── Content/
+│   │   ├── Slate/
+│   │   │   └── Cursor/
+│   │   │       └── invisible.cur
+│   │   └── SlateDebug/
+│   │       └── Fonts/
+│   │           ├── LastResort.tps
+│   │           └── LastResort.ttf
+│   ├── Extras/
+│   │   ├── GPUDumpViewer/
+│   │   └── Redist/
+│   ├── Plugins/
+│   │   └── Marketplace/
+│   │       └── Nvidia/
+│   │           ├── DLSS/
+│   │           │   └── Binaries/
+│   │           │       └── ThirdParty/
+│   │           │           └── Win64/
+│   │           │               └── nvngx_dlss.dll
+│   │           └── Streamline/
+│   │               └── Binaries/
+│   │                   └── ThirdParty/
+│   │                       └── Win64/
+│   │                           ├── nvngx_deepdvc.dll
+│   │                           ├── nvngx_dlssg.dll
+│   │                           ├── sl.common.dll
+│   │                           ├── sl.deepdvc.dll
+│   │                           ├── sl.dlss_g.dll
+│   │                           ├── sl.interposer.dll
+│   │                           ├── sl.pcl.dll
+│   │                           └── sl.reflex.dll
+│   └── Saved/
+│       └── Config
+├── SBR/
+│   ├── Binaries/
+│   │   └── Win64/
+│   │       ├── amd_fidelityfx_dx12.dll
+│   │       ├── OpenImageDenoise.dll
+│   │       ├── SBR.exe
+│   │       ├── SBR.pdb
+│   │       ├── SBR-Win64-Shipping.exe
+│   │       ├── tbb.dll
+│   │       ├── tbb.pdb
+│   │       ├── tbb12.dll
+│   │       ├── tbbmalloc.dll
+│   │       ├── tbbmalloc.pdb
+│   │       └── D3D12/
+│   │           ├── D3D12Core.dll
+│   │           └── d3d12SDKLayers.dll
+│   ├── Content/ 
+│   │   └── Paks/
+│   │       ├── global.ucas
+│   │       ├── global.utoc
+│   │       ├── SBR-Windows.pak
+│   │       ├── SBR-Windows.ucas
+│   │       └── SBR-Windows.utoc
+│   └── Saved/
+├── Manifest_DebugFiles_Win64.txt
+├── Manifest_NonUFSFiles_Win64.txt
+├── Manifest_UFSFiles_Win64.txt
+└── SBR.exe
