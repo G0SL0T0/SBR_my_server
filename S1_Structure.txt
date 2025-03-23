@@ -40,7 +40,12 @@ SBR
 │   │           └── LastResort.ttf
 │   ├── Extras/
 │   │   ├── GPUDumpViewer/
+│   │   │   ├── GPUDumpViewer.html
+│   │   │   ├── OpenGPUDumpViewer.bat
+│   │   │   └── OpenGPUDumpViewer.sh
 │   │   └── Redist/
+│   │       └── en-us/
+│   │           └── UEPrereqSetup_x64.exe
 │   ├── Plugins/
 │   │   └── Marketplace/
 │   │       └── Nvidia/
@@ -62,7 +67,9 @@ SBR
 │   │                           ├── sl.pcl.dll
 │   │                           └── sl.reflex.dll
 │   └── Saved/
-│       └── Config
+│       └── Config/
+│           └── Windows/
+│               └── Manifest.ini
 ├── SBR/
 │   ├── Binaries/
 │   │   └── Win64/
