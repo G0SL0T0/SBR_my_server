@@ -55,7 +55,7 @@ SBR
 │   │           │           └── Win64/
 │   │           │               └── nvngx_dlss.dll
 │   │           └── Streamline/
-│   │               └── Binaries/
+│   │               └── Binaries/          # Проверка на нужные плагины, их присутствие
 │   │                   └── ThirdParty/
 │   │                       └── Win64/
 │   │                           ├── nvngx_deepdvc.dll
@@ -72,7 +72,7 @@ SBR
 │               └── Manifest.ini
 ├── SBR/
 │   ├── Binaries/
-│   │   └── Win64/
+│   │   └── Win64/          # Нужно полностью узнать что в каждом файле
 │   │       ├── amd_fidelityfx_dx12.dll
 │   │       ├── OpenImageDenoise.dll
 │   │       ├── SBR.exe
