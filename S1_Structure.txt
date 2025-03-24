@@ -87,7 +87,7 @@ SBR
 │   │           ├── D3D12Core.dll
 │   │           └── d3d12SDKLayers.dll
 │   ├── Content/ 
-│   │   └── Paks/
+│   │   └── Paks/    # Правильное внедрение сетевой части в игру.
 │   │       ├── global.ucas
 │   │       ├── global.utoc
 │   │       ├── SBR-Windows.pak
