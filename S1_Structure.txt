@@ -67,7 +67,7 @@ SBR
 │   │                           ├── sl.pcl.dll
 │   │                           └── sl.reflex.dll
 │   └── Saved/
-│       └── Config/
+│       └── Config/         # Сэйф конфиг, не нужен
 │           └── Windows/
 │               └── Manifest.ini
 ├── SBR/
